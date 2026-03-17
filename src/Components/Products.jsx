@@ -9,7 +9,7 @@ const pData = [
     addOn: false,
     bgColor: "#4A00E0", // Vibrant Purple
     // Matrix raining code animation
-    video: "/public/circle.mp4",
+    video: "https://media.giphy.com/media/L8K62iTDkzGX6/giphy.mp4",
   },
   {
     title: "Weather Application",

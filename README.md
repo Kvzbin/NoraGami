@@ -4,7 +4,7 @@
 
 NoraGami is a high-performance, visually immersive portfolio built with a focus on smooth interactions, physics-based animations, and a premium "agency-style" aesthetic. 
 
-![Project Preview](https://images.unsplash.com/photo-1549277513-f1b32fe1f8f5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFydHxlbnwwfHwwfHx8MA%3D%3D)
+![Project Preview](https://images.unsplash.com/photo-1549277513-f1b32fe1f8f5?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGFydHxlbnwwfHwwfHx8MA%3D%3D)
 
 ## 🚀 The Vision
 The goal of this project was to move away from static, "boring" websites and explore **dynamic storytelling** through code. By combining custom hover states with real-time video preloading and smooth inertia scrolling, NoraGami provides a tactile experience for the user.

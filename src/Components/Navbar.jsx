@@ -1,18 +1,16 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import Button from "./Button";
+import Logo from "./Logo";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
     <nav className="max-w-4xl mx-auto px-4 md:px-0 flex py-4 items-center justify-between border-b-[.5px] border-gray-600 relative z-50">
-      <div className="flex gap-10 items-center">
-        <img
-          className="h-10 w-24 rounded-full object-cover"
-          src="/src/Utils/Refokus_logo.jpg"
-          alt="Logo_Main"
-        />
+      <div className="flex gap-4 items-center">
+        
+        <Logo />
 
         <ul className="hidden md:flex gap-10 text-xs font-semibold">
           {["Home", "Work", "Culture", "|", "News"].map((elem, idx) => {
